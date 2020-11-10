@@ -1,0 +1,18 @@
+body,h1,h2 {
+    margin:0px;
+    padding:0px;
+}
+
+h1 {
+    font-size: 36px;
+    color: #474241;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: lighter;
+    color: #4E4A49;
+    /* border-bottom: 1px solid #877D7C; */
+    /* margin-bottom:6px; */
+}
