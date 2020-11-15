@@ -72,9 +72,10 @@ TEMPLATES = [
 WSGI_APPLICATION = 'humanstagram.wsgi.application'
 
 
-# Database
-# https://docs.djangoproject.com/en/3.1/ref/settings/#databases
+Database
+https: // docs.djangoproject.com/en/3.1/ref/settings/  # databases
 
+# default setting sqlite setting value
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
